@@ -2,7 +2,8 @@
 Hypothyroidism : A case study on Nairobi Hospital patients
 ************************************************************************************************************************
 
-![hypothyroidism](https://user-images.githubusercontent.com/56550310/73528958-e6cf1b00-4426-11ea-90bf-a71967bcfdf1.jpg)
+![thyroid-gland-disorder-poster-hyperthyroidism-goiter-symbol-cute-unhealthy-icon-cartoon-style-body-anatomy-sign-92046836](https://user-images.githubusercontent.com/56550310/73529426-ba67ce80-4427-11ea-8c74-7f9c3daa7136.jpg)
+
 
 **************************************************************************************************************************
 
@@ -34,5 +35,4 @@ No known bugs
 
 Copyright(c) 2020 , Stephanie Omwanda
 
-
-![thyroid-gland-disorder-poster-hyperthyroidism-goiter-symbol-cute-unhealthy-icon-cartoon-style-body-anatomy-sign-92046836](https://user-images.githubusercontent.com/56550310/73529426-ba67ce80-4427-11ea-8c74-7f9c3daa7136.jpg)
+![hypothyroidism](https://user-images.githubusercontent.com/56550310/73528958-e6cf1b00-4426-11ea-90bf-a71967bcfdf1.jpg)
